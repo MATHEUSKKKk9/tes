@@ -1,0 +1,17 @@
+{
+    "token": "Token Bot",
+    "access_token": "token mp",
+    "status": "On",
+    "prefix": ".",
+    "owner": "id do dono",
+    "voice_channel": "canal onde ficara conectado",
+    "logs": "onde aparecerar quando o usuario compra para todos",
+    "logs_staff": "logs para adms pois tem opção de reembolso",
+    "category": "categoria do carrinho",
+    "title": "Recomendo colocar nick da loja",
+    "color": "#7709de",
+    "email": "algum email que recebera notificações de compra",
+    "twitch_link": "coloque aqui o link de alguma twitch (não é obrigatorio)",
+    "thumbnail": "url da thumbnail",
+    "role": "cargo que a pessoa receberá após a compra!"
+}
