@@ -1,0 +1,254 @@
+{
+    "1": {
+        "idproduto": "1",
+        "nome": "teste",
+        "desc": "teste",
+        "preco": "1.0",
+        "conta": [
+            "test"
+        ]
+    },
+    "2": {
+        "idproduto": "2",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "10": {
+        "idproduto": "10",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "12": {
+        "idproduto": "12",
+        "nome": "\\<:MoneyLost7:1121658471666958406>",
+        "desc": "\\<:MoneyLost7:1121658471666958406>",
+        "preco": "10",
+        "conta": [
+            "quatro"
+        ]
+    },
+    "14": {
+        "idproduto": "14",
+        "nome": "Nitro Trimensal",
+        "desc": "```• Link Nitro Gaming Trimensal (3 meses)\n• Precisa ter +30 dias de conta\n• conta nunca ter tido nitro\n• ter cc pra ativar\n• todos os links testados```\n:Black_World:  | **Nome:** **Nitro Trimensal**\n<:DinheiroPS:1097346415467954226>  **Preço:** **__R$5.50__**\n<:_caixa:1095132895804395530>  | **Estoque:** **__9__**",
+        "preco": "10",
+        "conta": [
+            "1"
+        ]
+    },
+    "98": {
+        "idproduto": "98",
+        "nome": "Trimensal",
+        "desc": "```• Link Nitro Gaming Trimensal (3 meses)\n• Precisa ter +30 dias de conta\n• conta nunca ter tido nitro\n• ter cc pra ativar\n• todos os links testados```\n/<a:Black_World:1010645932418801694>  | **Nome:** **Nitro Trimensal**\n/<:DinheiroPS:1097346415467954226>  **Preço:** **__R$5.50__**\n/<:_caixa:1095132895804395530>  | **Estoque:** **__9__**",
+        "preco": "3.50",
+        "conta": []
+    },
+    "500": {
+        "idproduto": "500",
+        "nome": "sla",
+        "desc": "teste",
+        "preco": "10.0",
+        "conta": [
+            "ol"
+        ]
+    },
+    "1212": {
+        "idproduto": "1212",
+        "nome": "Sem nome ainda...",
+        "desc": "<a:planeta:1121658488741961759>",
+        "preco": "10",
+        "conta": []
+    },
+    "1945": {
+        "idproduto": "1945",
+        "nome": "Sem nome ainda...",
+        "desc": "<:TDO_purplehype:1104589642537386046>",
+        "preco": "10",
+        "conta": []
+    },
+    "1212312": {
+        "idproduto": "1212312",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "123123123": {
+        "idproduto": "123123123",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "192381293": {
+        "idproduto": "192381293",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "hbo": {
+        "idproduto": "hbo",
+        "nome": "HBO MAX",
+        "desc": "• Crio No Seu Email e Senha\n• Full Acesso, você pode mudar a senha e email a hora que quiser\n• Conta Limpa Sem Chance De Cair\n• Multi Telas",
+        "preco": "4.50",
+        "conta": [
+            "1",
+            "2",
+            "3",
+            "5"
+        ]
+    },
+    "spotify": {
+        "idproduto": "spotify",
+        "nome": "spotify",
+        "desc": "• Com Garantia\n• Crio No Seu Email e Senha\n• Conta Solo e Só Sua\n• Full Acesso\n• Email e Senha Mudavel",
+        "preco": "6",
+        "conta": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+        ]
+    },
+    "methodhbo": {
+        "idproduto": "methodhbo",
+        "nome": "Hbo Metodo",
+        "desc": "• Pega Contas Infinitamente\n• Não Paga Mais Nada Além Do M3todo HBO\n• Dou Suporte De 24 Horas\n• Pega 1 Conta Em Menos De 5 Minutos\n• As Contas São Full Acesso",
+        "preco": "8.50",
+        "conta": []
+    },
+    "methodspotify": {
+        "idproduto": "methodspotify",
+        "nome": "Spotify Premium Free",
+        "desc": "• Pegue Contas De Spotify De Graça\n• Pague Apenas Pelo M3todo\n• Tem Que Ter R$10 De Saldo No Banco, e Precisa Ter Cartão Virtual\n• Suporte De 1 Hora Após a Compra\n• Bom Para Revenda",
+        "preco": "8.50",
+        "conta": []
+    },
+    "steamkey": {
+        "idproduto": "steamkey",
+        "nome": "Steam Keys",
+        "desc": "KEY RANDOM\n3R$\nKEY +200\n25R$\nKey 90+\n12R$",
+        "preco": "Na Descrição!",
+        "conta": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "1904u0182387": {
+        "idproduto": "1904u0182387",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "19904127390123": {
+        "idproduto": "19904127390123",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "ativação": {
+        "idproduto": "ativação",
+        "nome": "sex",
+        "desc": "sex",
+        "preco": "1",
+        "conta": [
+            "1"
+        ]
+    },
+    "ez": {
+        "idproduto": "ez",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "texte2": {
+        "idproduto": "texte2",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "texte23": {
+        "idproduto": "texte23",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "texte234": {
+        "idproduto": "texte234",
+        "nome": "sexo",
+        "desc": "sexo",
+        "preco": "10",
+        "conta": [
+            "2"
+        ]
+    },
+    "gg": {
+        "idproduto": "gg",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "Vendas": {
+        "idproduto": "Vendas",
+        "nome": "Nome Do Produto",
+        "desc": "Descrição do Produto",
+        "preco": "10",
+        "conta": []
+    },
+    "gay": {
+        "idproduto": "gay",
+        "nome": "Sem nome ainda...",
+        "desc": "sexo de pai",
+        "preco": "10",
+        "conta": []
+    }
+}

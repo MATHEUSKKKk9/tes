@@ -1,0 +1,32 @@
+{
+    "pedidostotal": 4,
+    "gastostotal": 50,
+    "16/06/2023": {
+        "pedidos": 1,
+        "recebimentos": 10
+    },
+    "1117954112756129902": {
+        "gastosaprovados": 20,
+        "pedidosaprovados": 2
+    },
+    "23/06/2023": {
+        "pedidos": 1,
+        "recebimentos": 10
+    },
+    "25/06/2023": {
+        "pedidos": 1,
+        "recebimentos": 20
+    },
+    "1113609434502008873": {
+        "gastosaprovados": 20,
+        "pedidosaprovados": 1
+    },
+    "30/06/2023": {
+        "pedidos": 1,
+        "recebimentos": 10
+    },
+    "1112418569641263176": {
+        "gastosaprovados": 10,
+        "pedidosaprovados": 1
+    }
+}
